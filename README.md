@@ -2,7 +2,7 @@
 Repo contains SpringBoot basics code created by refering to JavaBrains. <br/>
 
 ### Run command 
- java -jar <jarname>.jar
+ java -jar \<jarname\>.jar
 
 ### Exposed endpoints
  http://localhost:7000/n4smh/api/actuator/health
