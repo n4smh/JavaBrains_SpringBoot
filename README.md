@@ -1,4 +1,4 @@
-# JavaBrains_SpringBoot_Basics
+# SpringBoot_Basics
 Repo contains SpringBoot basics code created by refering to JavaBrains. <br/>
 
 ### Run command 
